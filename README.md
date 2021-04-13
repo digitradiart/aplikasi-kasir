@@ -1,6 +1,6 @@
 # aplikasi-kasir
 
-<h1>Final Project - PCAP Python 1B - DTS Kominfo 2021 </h2>
+<h2>Final Project - PCAP Python 1B - DTS Kominfo 2021 </h2>
 
 <ul>
 <li>Mas Fahrul Rahmanto: Base Class (menu_item, food, drink), inisiator</li>
