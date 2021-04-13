@@ -1,6 +1,6 @@
 # aplikasi-kasir
 
-Final Project - PCAP MPython 1B - DTS Kominfo 2021
+<h1>Final Project - PCAP Python 1B - DTS Kominfo 2021 </h2>
 
 Mas Fahrul Rahmanto: Base Class (menu_item, food, drink), inisiator
 Mas Arya Aji Kusuma: Main Class (main)
